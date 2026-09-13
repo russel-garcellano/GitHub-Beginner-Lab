@@ -1,0 +1,10 @@
+C:\Users\calvin\source\repos\GitHub-Beginner-Lab\StudentProfile-RusselGarcellano\bin\Debug\StudentProfile-RusselGarcellano.exe.config
+C:\Users\calvin\source\repos\GitHub-Beginner-Lab\StudentProfile-RusselGarcellano\bin\Debug\StudentProfile-RusselGarcellano.exe
+C:\Users\calvin\source\repos\GitHub-Beginner-Lab\StudentProfile-RusselGarcellano\bin\Debug\StudentProfile-RusselGarcellano.pdb
+C:\Users\calvin\source\repos\GitHub-Beginner-Lab\StudentProfile-RusselGarcellano\obj\Debug\StudentProfile-RusselGarcellano.csproj.AssemblyReference.cache
+C:\Users\calvin\source\repos\GitHub-Beginner-Lab\StudentProfile-RusselGarcellano\obj\Debug\StudentProfile_RusselGarcellano.Form1.resources
+C:\Users\calvin\source\repos\GitHub-Beginner-Lab\StudentProfile-RusselGarcellano\obj\Debug\StudentProfile_RusselGarcellano.Properties.Resources.resources
+C:\Users\calvin\source\repos\GitHub-Beginner-Lab\StudentProfile-RusselGarcellano\obj\Debug\StudentProfile-RusselGarcellano.csproj.GenerateResource.cache
+C:\Users\calvin\source\repos\GitHub-Beginner-Lab\StudentProfile-RusselGarcellano\obj\Debug\StudentProfile-RusselGarcellano.csproj.CoreCompileInputs.cache
+C:\Users\calvin\source\repos\GitHub-Beginner-Lab\StudentProfile-RusselGarcellano\obj\Debug\StudentProfile-RusselGarcellano.exe
+C:\Users\calvin\source\repos\GitHub-Beginner-Lab\StudentProfile-RusselGarcellano\obj\Debug\StudentProfile-RusselGarcellano.pdb

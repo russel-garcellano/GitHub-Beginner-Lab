@@ -36,9 +36,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(320, 190);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(214, 16);
+            this.label1.Size = new System.Drawing.Size(232, 16);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Student Profile - Russel Garcellano";
+            this.label1.Text = "Student Profile — GitHub Beginner Lab";
             // 
             // Form2
             // 
